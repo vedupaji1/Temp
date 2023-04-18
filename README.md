@@ -1,1 +1,1 @@
-# The Name Of Repository Is Temp, But Content Is Permanent.
+# The Content Of This Repository Is Permanent.
